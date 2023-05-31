@@ -2,5 +2,11 @@ README.md
 
 # Code repository
 
-This is repository empty - hello world!
+This is repository for code - hello world!!
+
+Very good day!
+
+
+Very good time!
+
 
